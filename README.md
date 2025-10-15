@@ -35,7 +35,7 @@ spring.datasource.username=root
 spring.datasource.password=your_password
 
 jwt.secret=YourSecretKeyMustBeAtLeast256BitsLong
-resume.parser.api.key=0bWeisRWoLj3UdXt3MXMSMWptYFIpQfS
+resume.parser.api.key=ghhg....
 ```
 
 ### 4. Run
