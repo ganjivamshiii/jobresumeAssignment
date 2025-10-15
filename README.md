@@ -177,7 +177,7 @@ Authorization: Bearer eyJhbGc....
 - Ensure token is in `Authorization` header
 - Check token hasn't expired (24h validity)
 
-**File Upload Failed**
+**File Upload**
 - Only PDF/DOCX allowed
 
 
